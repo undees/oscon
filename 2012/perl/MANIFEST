@@ -1,5 +1,6 @@
 Makefile.PL
 MANIFEST
 README
-t/OSCON.t
+t/test-OSCON.t
+t/test-fixme.t
 lib/OSCON.pm
