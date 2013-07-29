@@ -6,6 +6,6 @@ Directories:
 
   Demonstrations of a couple of common code metrics for C and Perl.
 
-* 2013: Planned Obsolescence"
+* 2013: "Planned Obsolescence", presented with [Baq Haidri](https://github.com/baq)
 
-  Ways in which we sometimes over-engineer code.
+  Ways in which we sometimes over-engineer code, and what to do about that.
